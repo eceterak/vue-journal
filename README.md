@@ -1,1 +1,1 @@
-Vue-journal is a simple to do list.
+https://eceterak.github.io/vue-journal/
